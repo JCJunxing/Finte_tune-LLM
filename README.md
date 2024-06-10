@@ -1,6 +1,6 @@
 # Fine-Tuning Pre-trained Language Models
 
-This repository contains Jupyter notebooks used for fine-tuning three different pre-trained large language models (LLMs): LORA, GEMMA, and MISTRAL. Each notebook is tailored to fine-tune a specific LLM checkpoint using diverse datasets and configurations.
+This repository contains Jupyter notebooks used for fine-tuning three different pre-trained large language models (LLMs): GEMMA, and MISTRAL. Each notebook is tailored to fine-tune a specific LLM checkpoint using diverse datasets and configurations.
 
 ## Notebooks Description
 
